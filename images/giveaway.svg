@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Black background -->
+  <rect width="400" height="300" fill="#000000" />
+  
+  <!-- Colorful decorative elements -->
+  <circle cx="50" cy="50" r="10" fill="#ff5252" />
+  <circle cx="350" cy="50" r="8" fill="#7c4dff" />
+  <circle cx="50" cy="250" r="12" fill="#40c4ff" />
+  <circle cx="350" cy="250" r="6" fill="#ffab40" />
+  
+  <!-- Colorful lines -->
+  <line x1="80" y1="30" x2="120" y2="30" stroke="#ff4081" stroke-width="3" />
+  <line x1="280" y1="30" x2="320" y2="30" stroke="#7c4dff" stroke-width="3" />
+  <line x1="80" y1="270" x2="120" y2="270" stroke="#40c4ff" stroke-width="3" />
+  <line x1="280" y1="270" x2="320" y2="270" stroke="#ffab40" stroke-width="3" />
+  
+  <!-- Wavy line -->
+  <path d="M150 250 Q 175 230 200 250 Q 225 270 250 250" stroke="#76ff03" stroke-width="3" fill="none" />
+  
+  <!-- Star shapes -->
+  <polygon points="80,80 85,95 100,95 90,105 95,120 80,110 65,120 70,105 60,95 75,95" fill="#ff4081" />
+  <polygon points="320,80 325,95 340,95 330,105 335,120 320,110 305,120 310,105 300,95 315,95" fill="#ffab40" />
+  
+  <!-- Giveaway text -->
+  <text x="200" y="100" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">GIVEAWAY</text>
+  
+  <!-- 3 Lucky Winners text -->
+  <text x="200" y="150" font-family="Arial" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">3 Lucky</text>
+  <text x="200" y="185" font-family="Arial" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Winners</text>
+</svg>

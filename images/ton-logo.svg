@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 30" width="100" height="30">
+  <style>
+    .ton-blue { fill: #0099ff; }
+    .ton-text { fill: #333333; font-family: 'Arial', sans-serif; font-weight: bold; }
+  </style>
+  <rect class="ton-blue" x="5" y="5" width="20" height="20" rx="2" />
+  <text x="30" y="20" class="ton-text" font-size="16">TON</text>
+  <text x="65" y="20" class="ton-text" font-size="8">TRADE ON NUMBERS</text>
+</svg>
