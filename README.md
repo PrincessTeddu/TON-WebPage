@@ -3,6 +3,8 @@
 ## Overview
 This project is a responsive frontend implementation of the TON (Trade On Numbers) web page, created using HTML, CSS, and Bootstrap. The design closely matches the provided reference images, ensuring a pixel-perfect implementation for both desktop and mobile views.
 
+**Live Demo**: [TON Web Page on Netlify](https://tonwebpagee.netlify.app/)
+
 ## Tech Stack
 - HTML5
 - CSS3
@@ -32,9 +34,6 @@ This website can be deployed to any web hosting service that supports static web
 - Netlify
 - Vercel
 - AWS S3
-
-### localhost
-http://localhost:8000/index.html
 
 ## Project Structure
 ```
@@ -87,3 +86,7 @@ The website is compatible with the following browsers:
 - **Freebies** - Free resources section with trading guides and templates
 - **Contact** - Contact form section for user inquiries
 
+
+## Credits
+- Design inspired by provided reference images
+- Developed by Teddu Princess
