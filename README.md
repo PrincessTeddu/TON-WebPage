@@ -5,6 +5,8 @@ This project is a responsive frontend implementation of the TON (Trade On Number
 
 **Live Demo**: [TON Web Page on Netlify](https://tonwebpagee.netlify.app/)
 
+**Repository Link**: [GitHub Repository](https://github.com/PrincessTeddu/TON-WebPage)
+
 ## Tech Stack
 - HTML5
 - CSS3
